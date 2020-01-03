@@ -46,8 +46,6 @@ genf.generateAndPrint();
 ```
 ### RESULT
 ```
-### RESULT
-```
 public class TestBean {
 		private Long longFiled;
 		private String stringFiled;
